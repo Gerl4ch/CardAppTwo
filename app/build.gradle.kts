@@ -31,6 +31,7 @@ android {
 dependencies {
 
     implementation(libs.appcompat)
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
     implementation(libs.material)
     implementation(libs.activity)
     implementation(libs.constraintlayout)
